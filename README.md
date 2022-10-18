@@ -1,2 +1,2 @@
 # hellohotstar
-<h2>A basic hello world app using Java spring boot</h2>
+<h2>A basic hello world app using spring boot</h2>
