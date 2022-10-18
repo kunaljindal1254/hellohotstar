@@ -11,13 +11,6 @@ public class HomeController {
 
     @RequestMapping("/")
     public String sayHello(){
-
         return "Hello Hotstar!";
-    }
-
-    @RequestMapping("/hello/{name}")
-    public String sayHelloWithName(@PathVariable("name") String name){
-
-        return "Hello " + name + ". Welcome to hotstar";
     }
 }
